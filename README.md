@@ -10,8 +10,6 @@ O **Controle de Calorias - Food Tracker** é um aplicativo desenvolvido em Swift
 
 - **Resumo Diário:** Visualize um resumo diário de suas refeições, mostrando o total de calorias consumidas e a distribuição de macronutrientes.
 
-- **Histórico:** Acesse um histórico de suas refeições anteriores para rastrear seu progresso e tomar decisões informadas sobre sua dieta.
-
 ## Capturas de Tela
 <img src="https://github.com/AlexParreira/CoreDataExample/assets/41374999/95319c83-e790-4989-861c-13ca7adabac1" alt="Captura de Tela 1" width="300" height="575">
 <img src="https://github.com/AlexParreira/CoreDataExample/assets/41374999/66d4057f-2c14-4cce-be7d-eb7b6580bed8" alt="Captura de Tela 1" width="300" height="575">
