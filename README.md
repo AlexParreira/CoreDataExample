@@ -46,10 +46,5 @@ O **Controle de Calorias - Food Tracker** é um aplicativo desenvolvido em Swift
 
 Se você deseja contribuir com melhorias, correções de bugs ou novos recursos para este aplicativo, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Autores
 
-- [Seu Nome](https://github.com/seu-usuario) - Desenvolvedor principal
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE) - consulte o arquivo LICENSE para obter detalhes.
